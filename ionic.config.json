@@ -1,0 +1,7 @@
+{
+  "name": "splashIconChange",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
